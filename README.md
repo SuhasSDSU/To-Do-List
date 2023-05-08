@@ -5,3 +5,10 @@ Tasks Implemented
 - Alert Dialog box
 - Dialog Fragment
 - Setting Pages
+
+Lab-4 
+This Lab builds up on Lab-3, wherein we have implemented
+
+- Sounds Effects
+- Animation
+- Used accelerometer sensor 
